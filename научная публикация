@@ -1,0 +1,32 @@
+``sql
+CREATE TABLE authors (
+author_id INT PRIMARY KEY,
+name VARCHAR(100),
+affiliation VARCHAR(100)
+);
+
+CREATE TABLE publications (
+publication_id INT PRIMARY KEY,
+title VARCHAR(255),
+year INT,
+author_id INT,
+FOREIGN KEY (author_id) REFERENCES authors(author_id)
+);
+
+Пример содержимого data/publications.sql:
+sql
+INSERT INTO publications (publication_id, title, year, author_id) VALUES
+(1, 'SQL for Data Science', 2019, 1),
+(2, 'Understanding Machine Learning', 2020, 2);
+
+Пример содержимого queries/get_publications.sql:
+sql
+SELECT * FROM publications;
+
+Пример содержимого README.md:
+markdown
+# Научные публикации на SQL
+## Структура базы данных
+
+- authors: таблица авторов.
+- publications: таблица публикаций.
