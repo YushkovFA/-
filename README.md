@@ -1,6 +1,7 @@
 
 <b> 609-31z_yfa </b> <br>
 <hr style="border: 0; height: 1px; background: #ccc; margin: 10px 0;">
+<div style="height: 1px; background-color: #ccc; margin: 10px 0;"></div>
 <b> Автор проекта </b> <br>
 Юшков Фёдор александрович <br>
 Сургутский государственный университет, группа 609-313 "Программная инженерия".
