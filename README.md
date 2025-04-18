@@ -1,9 +1,5 @@
 
 <b> 609-31z_yfa </b> <br>
-<div style="
-    border-top: 1px solid #ccc;
-    transform: scaleY(0.2);
-"></div>
 <b> Автор проекта </b> <br>
 <hr style="border: 1; height: 0.1px; background: #ccc; margin: 10px 0;">
 Юшков Фёдор александрович <br>
