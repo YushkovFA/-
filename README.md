@@ -1,4 +1,4 @@
-<p style="font-size: 60px;">Этот текст увеличен.</p>
+<p style="font-size: 80%;">Этот текст увеличен.</p>
 <b> 609-31z_yfa </b> <br>
 <hr style="border: 0; height: 1px; background: #ccc; margin: 10px 0;">
 <b> Автор проекта </b> <br>
