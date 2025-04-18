@@ -1,13 +1,4 @@
-<head>
-    <style>
-        .big-text {
-            font-size: 24px;
-        }
-    </style>
-</head>
-<body>
-    <p class="big-text">Этот текст крупнее.</p>
-</body>
+
 <b> 609-31z_yfa </b> <br>
 <hr style="border: 0; height: 1px; background: #ccc; margin: 10px 0;">
 <b> Автор проекта </b> <br>
