@@ -1,6 +1,5 @@
 
-<p style="font-size:<b> 609-31z_yfa </b> <br> 20px;">
-
+<b> 609-31z_yfa </b> <b/>
 <hr style="border: 0; height: 1px; background: #ccc; margin: 10px 0;">
 <b> Автор проекта </b> <br>
 Юшков Фёдор александрович <br>
